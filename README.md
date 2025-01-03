@@ -62,7 +62,7 @@ cd dev-python-inventario
 3. Ejecutar el programa:
 
 ```bash
-python main.py
+python setup.py
 ```
 
 ---
