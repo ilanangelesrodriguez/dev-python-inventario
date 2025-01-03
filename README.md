@@ -56,7 +56,7 @@ git clone https://github.com/ilanangelesrodriguez/dev-python-inventario.git
 2. Navegar al directorio del proyecto:
 
 ```bash
-cd repositorio
+cd dev-python-inventario
 ```
 
 3. Ejecutar el programa:
